@@ -127,10 +127,10 @@ streamlit run app.py
 
 ## Team
 
-* Saja Al-Fahmi
-* Rayana Al-Otaibi
-* Lama Al-Qarni
-* Arwa Al-Roqi
+* Saja AlFahmi
+* Rayana AlOtaibi
+* Lama AlQarni
+* Arwa AlRoqi
 
 ---
 
